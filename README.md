@@ -40,7 +40,7 @@ Chaque landing page propose un discours (légèrement) adapté à la cible, une 
 
 Design : la landing page a été formulée dans un esprit digital pour attirer les jeunes étudiants, le fait d'utiliser les grilles permet de jouer sur la composition, il ne reste plus qu'à jouer avec les visuels, effets et couleurs pour adapter à la cible.
 
-# Etape 3 : la newsletter :love_letter:
+# Etape 3 : La newsletter :love_letter:
 
 Process:
 *Creation de Signup Form a implementer dans la landing page
