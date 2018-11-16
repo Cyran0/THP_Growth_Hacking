@@ -17,13 +17,18 @@ La création du projet se décompose en 4 étapes:
 
 # Etape 1: Choisir les cibles
 
-Pour cela
-- On a utilisé la gem watir qui nous permet la connection à IG, PUIS
+Pour cela nous avons opté pour deux réseaux sociaux emblématiques : Instagram et Twitter.
+Pour le premier :
+- On a utilisé la gem watir qui nous permet la connection à Instagram, PUIS
 - On se rend sur le profil IG de Openclassroom scraper quelques abonnés
 - Pour ensuite se rendre sur chaque profil scrappé, et discrètement aimer quelques publications et en commenter d'autres.
-De même, deux actions marketing viennent compléter ce projet.
 
-PARTIE TWITTER
+Pour le second :
+- De la même manière que pour Instagram, nous avons utilité la gem watir qui permet de se connecter à Twitter
+- Puis nous avons opté pour le scappage des followers de 42, d'Openclassrooms et de Grafikart
+- Enfin nous commentons également ces followers.
+
+Pour finir deux actions marketing viennent compléter ce projet, à travers un scheduling via l'outil Heroku Scheduler.
 
 # Etape 2: La landing page template de qualité :computer:
 
@@ -45,6 +50,8 @@ Process:
 Une fois inscrit sur la newsletter, le subscriber reçoit un mail lui confirmant son inscription. Son adresse mail sera stockée sur Mailchimp dans une liste.
 
 # Etape 4: Tracking & Metrics :chart_with_upwards_trend:
+
+Pour la partie Tracking et Metrics nous avons opté pour l'outil Google Analytics qui est un outil simple et permet de tracker le flux des différents visiteurs. Il permet en temps réel d'obtenir la répartition des utilisateurs dans le monde et d'avoir une vue d'ensemble sur les statistiques qui leurs sont associées.
 
 # Installation
 
