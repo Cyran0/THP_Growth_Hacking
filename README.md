@@ -18,6 +18,7 @@ La création du projet se décompose en 4 étapes:
 # Etape 1: Choisir les cibles
 
 Pour cela nous avons opté pour deux réseaux sociaux emblématiques : Instagram et Twitter.
+
 Pour le premier :
 - On a utilisé la gem watir qui nous permet la connection à Instagram, PUIS
 - On se rend sur le profil IG de Openclassroom scraper quelques abonnés
