@@ -1,27 +1,24 @@
-# TEAM
+# README
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+Things you may want to cover:
 
-# Comment s'en servir?
-# 1) Prérequis :
-  *bundle install
-  *
-  *
-  
-# 2) 
-ē
+* Ruby version
 
+* System dependencies
 
-# Lien de production:
+* Configuration
 
+* Database creation
 
+* Database initialization
 
+* How to run the test suite
 
+* Services (job queues, cache servers, search engines, etc.)
 
-# Les opérations utilisées: 
+* Deployment instructions
 
-
-
-
+* ...
